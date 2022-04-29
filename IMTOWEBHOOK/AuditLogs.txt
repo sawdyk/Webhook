@@ -1,0 +1,9 @@
+﻿Action taken:  Sending Mail to Remittance and Business Automation Team for Successful Processed Item
+
+Message:  Processing Item With Processing_Item_ID: ProcessingID and Collection Pin: CollectionPin was Successfully Processed
+
+Time of action:  8/19/2021 12:01:01 PM
+
+
+
+

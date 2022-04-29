@@ -1,0 +1,26 @@
+﻿Exception Message:  Value cannot be null.
+Parameter name: source
+
+Inner Exception:  None
+
+Stack Trace:     at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at IMTOWEBHOOK.Controllers.GloCurrencyController.<webhook>d__3.MoveNext() in C:\Users\P8623\Desktop\P8623\Projects\IMTOWEBHOOK\IMTOWEBHOOK\Controllers\GloCurrencyController.cs:line 50
+
+Time of exception:  7/23/2021 3:22:30 PM
+
+
+
+
+Exception Message:  Value cannot be null.
+Parameter name: source
+
+Inner Exception:  None
+
+Stack Trace:     at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at IMTOWEBHOOK.Controllers.GloCurrencyController.<webhook>d__3.MoveNext() in C:\Users\P8623\Desktop\P8623\Projects\IMTOWEBHOOK\IMTOWEBHOOK\Controllers\GloCurrencyController.cs:line 50
+
+Time of exception:  7/23/2021 3:22:43 PM
+
+
+
+
